@@ -1,0 +1,16 @@
+{
+    "assets": [
+        {
+            "name": "asset1",
+            "tyoe": "nb"
+        },
+        {
+            "name": "asset2",
+            "tyoe": "disk"
+        },
+        {
+            "name": "asset3",
+            "tyoe": "server"
+        }
+    ]
+}
